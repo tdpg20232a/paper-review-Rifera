@@ -46,9 +46,26 @@ Ada dua sisi yaitu admin dan pengguna.Informasi arsitektur sistem dari sisi admi
 ![image](https://github.com/Rifera/Review-Paper-TDPGRVRA/assets/63510694/a3c31c49-a564-4be6-a3c3-dc3c21f58ce3)![image](https://github.com/Rifera/Review-Paper-TDPGRVRA/assets/63510694/35579572-c030-463d-9c72-c05144435e64)![image](https://github.com/Rifera/Review-Paper-TDPGRVRA/assets/63510694/f8f6e9ea-9dcd-450c-8608-bc54d96b7783)![image](https://github.com/Rifera/Review-Paper-TDPGRVRA/assets/63510694/d973c786-c57a-441d-9d01-c00b77834fb5)
 <br/>
 <br/>
-**BLACKBOX TESTING**
+**1. Worlds**
 <br/>
-![image](https://github.com/Rifera/Review-Paper-TDPGRVRA/assets/63510694/b6e2dd24-d1b9-41fa-9561-e5004403d248)
+<br/>
+Dalam paper ini, elemen "Worlds" merujuk pada penggabungan dunia nyata (lingkungan sekitar Candi Plaosan) dengan dunia maya (objek 3D dan informasi tambahan) melalui teknologi augmented reality. Aplikasi ReSan AR memungkinkan pengguna untuk menjelajahi dan berinteraksi dengan dunia maya yang disajikan di atas dunia nyata Candi Plaosan, menciptakan pengalaman yang memperluas persepsi pengguna terhadap lingkungan sekitarnya.
+<br/>
+<br/>
+**2. Interactivity**
+<br/>
+<br/>
+Elemen "Interactivity" dalam paper ini mengacu pada kemampuan pengguna untuk berinteraksi dengan objek virtual yang ditampilkan melalui aplikasi AR. Dengan menggunakan metode markerless AR, pengguna dapat berpartisipasi aktif dalam menjelajahi Candi Plaosan, memilih objek yang ingin dilihat, dan mendapatkan informasi tambahan dengan cara yang lebih dinamis dan interaktif.
+<br/>
+<br/>
+**3. Sensory Feedback**
+<br/>
+<br/>
+Dalam konteks paper ini, "Sensory Feedback" mengacu pada respons sensorik yang diterima oleh pengguna saat berinteraksi dengan aplikasi ReSan AR. Melalui visualisasi objek 3D, suara, dan informasi tambahan yang disajikan secara real-time, pengguna dapat merasakan pengalaman yang lebih mendalam dan imersif saat menjelajahi Candi Plaosan melalui teknologi augmented reality.
+<br/>
+<br/>
+**4. Immersion**
+<br/>
 <br/>
 Berdasarkan hasil pengujian blackbox, dapat disimpulkan bahwa seluruh halaman pada aplikasi Resan AR menunjukkan bahwa, baik tombol maupun webcamp berjalan dengan baik.Hasil aplikasi augmented reality (AR) dengan metode markerless menunjukkan kemajuan signifikan dalam memberikan  pengalaman  interaktif  tanpa  memerlukan  marker  fisik  khusus.  Salah  satu  keunggulan utama metode ini adalah kemampuannya untuk menempatkan objek virtual dalam lingkungan fisik tanpa  ketergantungan  pada  tanda  atau  marker  tertentu.  Hal  ini  memberikan  kebebasan  yang  lebih besar  bagi  pengguna,  memungkinkan  mereka berinteraksi  dengan  objek  virtual  di  sekitar  mereka tanpa pembatasan lokasi.
 <br/>
@@ -71,7 +88,7 @@ Berdasarkan hasil pengujian blackbox, dapat disimpulkan bahwa seluruh halaman pa
 
 **#CONCLUSSION**
 <br/>
-Penelitian ini menghasilkan aplikasi pemandu wisata berbasis augmented reality untuk Candi Plaosan menggunakan metode waterfall. Aplikasi AR ReSan menampilkan candi dan relief dengan objek 3D, memberikan pengalaman interaktif tanpa marker fisik. Pengujian black box memastikan fungsi tombol dan webcam berjalan dengan baik. Metode marker based tracking efektif dalam meningkatkan pengalaman pengguna dalam berbagai konteks. Potensi aplikasi AR ini dapat diterapkan dalam industri pemasaran, pendidikan, dan hiburan.
+Penelitian ini menghasilkan aplikasi pemandu wisata berbasis augmented reality untuk Candi Plaosan menggunakan metode waterfall. Aplikasi AR ReSan menampilkan candi dan relief dengan objek 3D, memberikan pengalaman interaktif tanpa marker fisik. Pengujian black box memastikan fungsi tombol dan webcam berjalan dengan baik. Metode marker based tracking efektif dalam meningkatkan pengalaman pengguna dalam berbagai konteks. Potensi aplikasi AR ini dapat diterapkan dalam industri pemasaran, pendidikan, dan hiburan. Paper ini dapat menjadi referensi yang baik untuk projek akhir Mata Kuliah Pengembangan Game
 <br/>
 <br/>
 **#FUTURE WORKS**
