@@ -84,7 +84,6 @@ Berdasarkan hasil pengujian blackbox, dapat disimpulkan bahwa seluruh halaman pa
 2. **Keterbatasan Implementasi:** Meskipun hasil pengujian menunjukkan kinerja yang baik, paper ini dapat memberikan informasi lebih rinci tentang tantangan yang dihadapi selama implementasi aplikasi AR dan cara mengatasinya untuk pengembangan di masa depan.<br/>
 3. **Kurangya segi penulisan :** Dalam paper ini, terdapat beberapa kelemahan dari segi penulisan yang perlu diperhatikan. Salah satunya adalah kurangnya konsistensi dalam penggunaan gaya penulisan dan format, seperti penggunaan huruf kapital yang tidak konsisten pada beberapa bagian teks . Hal ini dapat mempengaruhi kesan keseluruhan dari paper dan perlu diperbaiki untuk meningkatkan kualitas penulisan.
 <br/>
-<br/>
 **NOVELTY**<br/>
 Novelty dalam metode penelitian ini terletak pada penggunaan metode markerless AR dalam pengembangan aplikasi pemandu wisata untuk Candi Plaosan. Aplikasi ReSan AR memberikan pengalaman interaktif tanpa memerlukan marker fisik, memungkinkan pengguna untuk menjelajahi Candi Plaosan dengan objek 3D dan informasi tambahan yang disajikan secara dinamis .
 <br/>
