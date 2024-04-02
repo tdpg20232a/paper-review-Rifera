@@ -67,7 +67,7 @@ Dalam konteks paper ini, "Sensory Feedback" mengacu pada respons sensorik yang d
 **4. Immersion**
 <br/>
 <br/>
-Berdasarkan hasil pengujian blackbox, dapat disimpulkan bahwa seluruh halaman pada aplikasi Resan AR menunjukkan bahwa, baik tombol maupun webcamp berjalan dengan baik.Hasil aplikasi augmented reality (AR) dengan metode markerless menunjukkan kemajuan signifikan dalam memberikan  pengalaman  interaktif  tanpa  memerlukan  marker  fisik  khusus.  Salah  satu  keunggulan utama metode ini adalah kemampuannya untuk menempatkan objek virtual dalam lingkungan fisik tanpa  ketergantungan  pada  tanda  atau  marker  tertentu.  Hal  ini  memberikan  kebebasan  yang  lebih besar  bagi  pengguna,  memungkinkan  mereka berinteraksi  dengan  objek  virtual  di  sekitar  mereka tanpa pembatasan lokasi.
+lemen "Immersion" dalam paper ini menggambarkan tingkat keterlibatan dan kedalaman pengalaman yang dirasakan oleh pengguna saat menggunakan aplikasi AR. Dengan menggabungkan dunia nyata dan dunia maya secara mulus, ReSan AR menciptakan lingkungan yang imersif di sekitar Candi Plaosan, memungkinkan pengguna untuk merasakan pengalaman wisata yang lebih mendalam dan interaktif .
 <br/>
 <br/>
 **#PERSONAL COMMENTS**
